@@ -4,11 +4,11 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p align="center">
   <a href="https://www.geeksblabla.com">
-    <img alt="Gatsby" src="https://raw.githubusercontent.com/DevC-Casa/geeksblabla.com/master/static/images/logo.png" width="200" />
+<!--     <img alt="Gatsby" src="https://raw.githubusercontent.com/DevC-Casa/geeksblabla.com/master/static/images/logo.png" width="200" /> -->
   </a>
 </p>
 <h1 align="center">
-  GeeksBlabla Website
+  Ajincodew trainings
 </h1>
 
 Geeksblabla is a webinar where we meet to share and learn about awesome topics from the best.
