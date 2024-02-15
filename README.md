@@ -5,7 +5,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p align="center">
   <a href="https://ajincodew.netlify.app">
-    <img alt="Gatsby" src="./imgs/ajincodew.jpg" width="200" />
+    <img alt="Gatsby" src="./assets/ajincodew.jpg" width="200" />
   </a>
 </p>
 <h1 align="center">
@@ -31,7 +31,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="20%"><a href="https://taffah-achraf.netlify.app"><img src="./imgs/achraf-taffah.jpg" width="180px;" alt="Achraf TAFFAH"/><br /><sub><b>Achraf TAFFAH</b></sub></a><br /><a href="https://github.com/Aji-ncodew/trainings/commits?author=TAFFAHACHRAF" title="Code">💻</a> <a href="https://github.com/Aji-ncodew/trainings/commits?author=yjose" title="Documentation">📖</a> <a href="#content-TAFFAHACHRAF" title="Content">🖋</a> <a href="https://github.com/Aji-ncodew/trainings/pulls?q=is%3Apr+reviewed-by%3ATAFFAHACHRAF" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://taffah-achraf.netlify.app"><img src="./assets/achraf-taffah.jpg" width="180px;" alt="Achraf TAFFAH"/><br /><sub><b>Achraf TAFFAH</b></sub></a><br /><a href="https://github.com/Aji-ncodew/trainings/commits?author=TAFFAHACHRAF" title="Code">💻</a> <a href="https://github.com/Aji-ncodew/trainings/commits?author=yjose" title="Documentation">📖</a> <a href="#content-TAFFAHACHRAF" title="Content">🖋</a> <a href="https://github.com/Aji-ncodew/trainings/pulls?q=is%3Apr+reviewed-by%3ATAFFAHACHRAF" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
